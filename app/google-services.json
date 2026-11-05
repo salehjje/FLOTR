@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "667801709910",
+    "project_id": "flotr-f4ee7",
+    "storage_bucket": "flotr-f4ee7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667801709910:android:74211c6ee75ff63620faf7",
+        "android_client_info": {
+          "package_name": "com.flotr.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667801709910-o84e81mbgqmh5e6eff535bv7kpvbnc3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flotr.app",
+            "certificate_hash": "c9398f04cf65a6020ca4709c87cb18c3485c29e6"
+          }
+        },
+        {
+          "client_id": "667801709910-a0379ookg2okcp262uregf7ior11v9pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnkbUmCcHz_E8FZB1EC7QmBYMOMjzjS7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667801709910-a0379ookg2okcp262uregf7ior11v9pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
